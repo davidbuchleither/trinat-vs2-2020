@@ -11,30 +11,30 @@ Aufgaben verteilte Systeme 2 (HS2020)
 
 ## Auflistung der Aufgaben
 
-1) Socket: TippDesTagesClient und TipDesTagesServer
+1) Socket: TippDesTagesClient und TipDesTagesServer (eingecheckt)
 
 <br>
 
-2) Socket: ContestClient
+2) Socket: ContestClient (eingecheckt)
 
 <br>
 
-3) Threads01
+3) Threads01 (eingecheckt)
 
 <br>
 
-4) Threads02
+4) Threads02 (eingecheckt)
 
 <br>
 
-5) Docker Praktikum-HTML
+5) Docker Praktikum-HTML (eingecheckt)
 
 <br>
 
-6) Web: Simple Webserver
+6) Web: Simple Webserver (eingecheckt)
 
 <br>
 
-7) Html
+7) Html (nicht eingecheckt)
 
  
