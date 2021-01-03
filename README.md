@@ -19,19 +19,19 @@ Aufgaben verteilte Systeme 2 (HS2020)
 
 <br>
 
-3)Threads01
+3) Threads01
 
 <br>
 
-4)Threads02
+4) Threads02
 
 <br>
 
-5)Docker Praktikum-HTML
+5) Docker Praktikum-HTML
 
 <br>
 
-6)Web: Simple Webserver
+6) Web: Simple Webserver
 
 <br>
 
